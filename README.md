@@ -4,5 +4,5 @@
 <H2 id="preview">Pré-visualização</H2>
 
 <section align="center">
-    <img alt="previsualização" src="/assets/preview.gif"/>
+    <img alt="previsualizacao" src="/assets/preview.gif"/>
 </section>
