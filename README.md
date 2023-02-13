@@ -1,6 +1,5 @@
 <H1 align="center">Chuva Frontend Project</H1>
-
-<H2 id="about">📙 About</H2>
+<H2 align="center">📙 Sobre</H2>
 
 <p>Layout developed by <a href="https://github.com/galoa">Galoá</a>, application hosted by <a href="https://www.netlify.com/">Netlify</a> and production made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/" target="_blank">Kenji Iwatani</a></p>
 <p>Video used: <a href="https://www.youtube.com/watch?v=jNQXAC9IVRw">Me at the zoo (first video posted on Youtube)</a></p>
