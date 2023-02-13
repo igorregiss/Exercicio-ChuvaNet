@@ -1,10 +1,4 @@
 <H1 align="center">Chuva Frontend Project</H1>
-#
-
-
-<h4 align="center">
-   ✔️ Chuva Frontend Project finished ✔️
-</h4>
 
 <H2 id="about">📙 About</H2>
 
