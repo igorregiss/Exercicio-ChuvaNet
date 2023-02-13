@@ -1,13 +1,6 @@
-<H1 align="center">Chuva Frontend Project</H1>
+# PROJETO SELETIVO CHUVA.NET
 
-<h2 align="center">Summary</h2>
 
-<p align="center">
-    <a href="#about">📙 About</a>
-    <a href="#preview">🖼️ Page Preview</a>
-    <a href="#features">💡 Features</a>
-    <a href="#technologies">💻 Technologies</a>
-</p>
 
 <h4 align="center">
    ✔️ Chuva Frontend Project finished ✔️
