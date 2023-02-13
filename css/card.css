@@ -1,0 +1,120 @@
+.cards {
+  display: flex;
+  flex-direction: column;
+}
+.card__content {
+  width: 97%;
+  height: auto;
+  min-height: 148px;
+  box-shadow: 2px 2px 10px rgb(112 111 111 / 22%);
+  margin: 25px auto;
+}
+.card__titulo {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 11px 0 3px 23px;
+  color: var(--color-item);
+}
+.card__texto {
+  font-size: 0.750rem;
+  font-weight: 500;
+  color: #5C5C5C;
+  margin: 5px 0 3px 23px;
+}
+.card__corpo-texto {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color:#4D4D4D;
+  padding: 11px 0 20px 23px;
+}
+.card__footer {
+  width: 35%;
+  min-width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 5px 0 0px 23px;
+  height: 20px;
+}
+#card-info {
+  padding: 0px 8px;
+  margin-left: -8px;
+}
+.card__footer #card-img {
+ height: 18px;
+}
+.card__footer p {
+  color: #757575;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 0.875rem;
+}
+.card-expandido-1{
+  display: none;
+  width: 97%;
+  margin: 0 auto;
+  box-shadow: 2px 2px 5px rgba(112, 111, 111, 0.082);
+  position: relative;
+  top: -24px;
+}
+.card-expandido{
+  display: none;
+  width: 97%;
+  margin: 0 auto;
+  box-shadow: 2px 2px 5px rgba(112, 111, 111, 0.082);
+  position: relative;
+  top: -24px;
+}
+.card__content-b {
+  background: #F8F8F8;
+  border: 1px solid #e7e7e786;
+  box-sizing: border-box;
+  height: auto;
+  box-shadow: 2px 2px 5px rgba(112, 111, 111, 0.082);
+}
+.card__content-w {
+  background: #FFFFFF;
+  border: 1px solid #e7e7e786;
+  box-sizing: border-box;
+  height: auto;
+  box-shadow: 2px 2px 5px rgba(112, 111, 111, 0.082);
+}
+#autor-adriano {
+  padding: 18px 23px 35px 23px;
+}
+#autor-carlos{
+  padding: 18px 23px 25px 23px;
+}
+.respostas-header {
+  display: flex;
+  justify-content: space-between;
+}
+.a_p {
+  color: #4D4D4D;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 15px;
+  margin-top: 10px;
+
+}
+.a_title {
+  color: #5C5C5C;
+  font-size: 0.750rem;
+  font-weight: 700;
+  line-height: 15px;
+  margin-top: 10px;
+}
+.p-right {
+  display: inline-block;
+  text-align:center;
+  text-align-last: right;
+  color: var(--color-item);
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin-left: 33px;
+}
+#autor-camila{
+  padding: 18px 23px 35px 23px;
+}
+#autor-ana{
+  padding: 18px 23px 35px 23px;
+}

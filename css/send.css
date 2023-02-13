@@ -1,0 +1,42 @@
+.discurssoes__painel-send{
+  display: none;
+  position: relative;
+}
+.box-enviar {
+  display:flex;
+  position: relative;
+  bottom: 100px;
+}
+.cards-div-send {
+  display: contents;
+  background-color: #4D4D4D;
+}
+.card__content-div {
+  position: relative;
+  top: 20px;
+  filter: blur(1px);
+}
+.assunto-enviado {
+  width: 97%;
+  min-height: 148px;
+  height: auto;
+  opacity: 0.8;
+  background: #DDDDDD;
+  border: 1px solid #e7e7e734;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 20px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.247);
+  border-radius: 4px;
+  z-index: 1;
+}
+.assunto-enviado img {
+  margin-top: 35px;
+}
+.assunto-enviado{
+  margin: 8px;
+}
+.link-enviado{
+  color: var(--color-item);
+  text-decoration: underline;
+}

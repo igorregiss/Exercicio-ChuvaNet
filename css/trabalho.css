@@ -1,0 +1,112 @@
+.trabalho__titulo-video {
+  font-family: var(--roboto);
+  font-size: 1.25rem;
+  font-weight: 900;
+  line-height: 25px;
+  letter-spacing:0.12rem;
+  color: var(--color-item);
+  margin: 20px 0;
+  width: 70%;
+}
+.trabalho__box {
+  display: flex;
+  justify-content: space-between;
+}
+.trabalho__conteudo-botao {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.trabalho__botao {
+  display: flex;
+  justify-content: space-between;
+}
+#btn-download {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 120px;
+  color: white;
+  cursor: pointer;
+}
+#btn-favoritar {
+  width: 43px;
+  padding: 7px;
+}
+#btn-doi {
+  width: 43px;
+  padding: 6px;
+}
+#trabalho__legenda {
+  width: 239px;
+  font-family: var(--robto);
+  color: var(--color-item);
+  font-size: 0.875rem;
+  text-align: right;
+  font-weight: 800;
+  margin-top: 18px;
+}
+.trabalho__conteudo {
+  width: 242px;
+  height: 439px;
+  border: 1px solid #ECECEC;
+}
+.trabalho__detalhes-titulo {
+  background: var(--bg-topic);
+  font-family: var(--roboto);
+  color:#4E4E4E;
+  font-size: 1.25rem;
+  font-weight: 500;
+  padding: 11px 15px 9px 15px;
+  border: 1px solid #ECECEC;
+}
+.box-texto-detalhes {
+  height: 392px;
+  overflow: auto;
+}
+.trabalho__conteudo-texto {
+  padding: 15px;
+  font-size: 0.750rem;
+  font-weight: 400;
+  line-height: 122%;
+  color: #5c5c5c;
+}
+.txt-lista {
+  padding: 15px;
+  color: #4E4E4E;
+}
+.txt-autores {
+  font-size: 0.875rem;
+  line-height: 1.2rem;
+  letter-spacing: 2%;
+  margin-top: 5px;
+}
+
+.txt-list-ref {
+  margin-top: 35px;
+  color: #ececec;
+}
+.txt-ref {
+  font-size: 0.850rem;
+  line-height: 1rem;
+  font-weight: 400;
+  letter-spacing: 2%;
+  padding-left: 15px;
+  color: #b1aeae;
+}
+.txt-ref >sup {
+  font-size: 0.4rem;
+  margin-bottom: 5px;
+}
+.trabalho__detalhes {
+  display: flex;
+  justify-content: space-between;
+}
+.video{
+  width: 70%;
+  height: 60%;
+}
+#video-trabalho {
+  width: 100%;
+  height: 439px;
+}
