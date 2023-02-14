@@ -9,3 +9,5 @@
 <li>JavaScript</li>
 </ul>
 </p>
+<H1 align="center">Preview:</H1>
+<img src="https://github.com/igorregiss/Exercicio-ChuvaNet/blob/main/exercicio%20chuva.png?raw=true">
